@@ -253,7 +253,7 @@ Every restore operation validates the selected database and creates a safety bac
 
 ## 👨‍💻 Developer
 
-**ZaBir Hasan**
+**ZaBir HaSan**
 
 Python Developer | Desktop Application Developer | Data Analytics Enthusiast
 
