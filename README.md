@@ -1,19 +1,6 @@
 # 💰 ZaBir FinanceFlow
 ### Smart Personal Finance Management System
 
-<p align="center">
-  **Take Control of Your Money. Track Every Expense. Build Your Financial Future.**
-</p>
-
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
-  ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange)
-  ![SQLite](https://img.shields.io/badge/Database-SQLite3-003B57?logo=sqlite&logoColor=white)
-  ![Version](https://img.shields.io/badge/Version-1.0.0-success)
-  ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
-  ![License](https://img.shields.io/badge/License-MIT-green)
-</p>
-
 ---
 
 ## ✨ Overview
