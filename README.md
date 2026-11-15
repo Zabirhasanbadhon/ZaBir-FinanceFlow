@@ -96,73 +96,6 @@ ZaBir FinanceFlow follows a local-first approach.
 
 **Important:** During Python installation, make sure the **Tcl/Tk and IDLE** feature is enabled.
 
-## ⚡ Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-### 2. Navigate to the Project
-
-```bash
-cd ZaBir_FinanceFlow
-```
-
-### 3. Create a Virtual Environment
-
-```bash
-python -m venv .venv
-```
-
-### 4. Activate the Environment
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
-
-If PowerShell blocks activation:
-
-```powershell
-Set-ExecutionPolicy -Scope Process Bypass
-```
-
-### 5. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 6. Launch the Application
-
-```bash
-python main.py
-```
-
-🎉 **That's it! ZaBir FinanceFlow is ready to use.**
-
-## 🧪 Testing
-
-Run the automated test suite:
-
-```bash
-python -m unittest discover -s tests -v
-```
-
-The tests cover:
-
-- Database operations
-- Input validation
-- Transaction management
-- Categories and filtering
-- Budget management
-- Savings goals
-- Financial reports
-- CSV and PDF exports
-- Backup and restore
-- UI page and dialog smoke tests
-
 ## 🗂️ Project Structure
 
 ```text
@@ -258,18 +191,6 @@ Every restore operation validates the selected database and creates a safety bac
 Python Developer | Desktop Application Developer | Data Analytics Enthusiast
 
 🌐 **Website:** https://www.zabirhasan.com
-
-## ⭐ Support the Project
-
-If you find **ZaBir FinanceFlow** useful:
-
-- ⭐ Give this repository a star.
-- 🍴 Fork the project.
-- 🐛 Report bugs and issues.
-- 💡 Suggest new features.
-- 📢 Share it with others.
-
-Your support helps make the project better!
 
 ---
 
